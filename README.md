@@ -1,6 +1,6 @@
 # Work Day Scheduler - Third Party APIs
 
-## This project was created for Week 4: Work Day Scheduler Challenge.
+## This project was created for Week 5: Work Day Scheduler Challenge.
 
 ## Project Summary and Functionality
 
